@@ -1,0 +1,5 @@
+Figure out how to take the concept in the commented code at the end, 
+where the program pulls multiple text strings & color codes from AIO, 
+and populates the appropriate empty list with that information, and 
+then randomly pull one string and one color code to scroll across the 
+screen. Then, update the feed every "x" minutes.
